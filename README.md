@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pandaharsh/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/pandaharsh/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pandaharsh/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/pandaharsh/Leetcode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pandaharsh/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/pandaharsh/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/pandaharsh/Leetcode/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
