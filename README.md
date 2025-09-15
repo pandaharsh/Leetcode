@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/pandaharsh/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pandaharsh/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pandaharsh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/pandaharsh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pandaharsh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pandaharsh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pandaharsh/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/pandaharsh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandaharsh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/pandaharsh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pandaharsh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/pandaharsh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pandaharsh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pandaharsh/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/pandaharsh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/pandaharsh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
